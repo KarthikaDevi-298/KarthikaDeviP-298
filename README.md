@@ -1,4 +1,4 @@
-<h1>Hi, I'm Karthika Devi P! <br/><a href"https://github.com/KarthikaDevi-298"></a>, <a 
+<h1>Hi, I'm Karthika Devi P!<br/><a href"https://github.com/KarthikaDevi-298"></a>, <a 
 
 <h2>👨‍💻 Engineering student:</h2>
 <b>Education</b>
