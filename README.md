@@ -11,7 +11,7 @@ Panimalar Engineering College
 •	2022-2023
 •	PERCENTAGE:74%
 
-- <b> Certifications: (AlgoExpert)</b>
+- <b> Certifications: </b>
   - [DataScience For Begineers](https://fsp-assessment-certificates.s3-ap-southeast-1.amazonaws.com/PKarthikaDevi-126714823.pdf)
   - [CyberSecurity Fundamentals](https://fsp-assessment-certificates.s3-ap-southeast-1.amazonaws.com/PKarthikaDevi-126714823.pdf).
   - [Python For DataScience -nptel swayam].
@@ -26,13 +26,9 @@ Panimalar Engineering College
 - <b>Projects</b>
   - [db-exposure-scanner](https://github.com/KarthikaDevi-298/db-exposure-scanner).
   - [Happiee Shoppie](https://github.com/KarthikaDevi-298/Happiee-Shoppie).
-    
-    
-
 
 <h2> 🤳 Connect with me:</h2>
-
-
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [Hacker rank]:https://www.hackerrank.com/profile/pkarthikadevi05
 [linkedin]: www.linkedin.com/in/p-karthika-devi-7aa521361
@@ -40,4 +36,3 @@ Panimalar Engineering College
 
 
 
--->
