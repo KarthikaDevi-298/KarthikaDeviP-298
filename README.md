@@ -26,7 +26,9 @@ Panimalar Engineering College
 - <b>Projects</b>
   - [db-exposure-scanner](https://github.com/KarthikaDevi-298/db-exposure-scanner).
   - [Happiee Shoppie](https://github.com/KarthikaDevi-298/Happiee-Shoppie).
-     <b> Connect me </b>
+ 
+    
+- <b> Connect me </b>
   - [Linked in](www.linkedin.com/in/p-karthika-devi-7aa521361).
   - [Hacker rank](https://www.hackerrank.com/profile/pkarthikadevi05).
     
