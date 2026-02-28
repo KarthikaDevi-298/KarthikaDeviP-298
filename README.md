@@ -26,12 +26,13 @@ Panimalar Engineering College
 - <b>Projects</b>
   - [db-exposure-scanner](https://github.com/KarthikaDevi-298/db-exposure-scanner).
   - [Happiee Shoppie](https://github.com/KarthikaDevi-298/Happiee-Shoppie).
+     <b> Connect me </b>
+  - [Linked in](www.linkedin.com/in/p-karthika-devi-7aa521361).
+  - [Hacker rank](https://www.hackerrank.com/profile/pkarthikadevi05).
+    
 
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[Hacker rank]:https://www.hackerrank.com/profile/pkarthikadevi05
-[linkedin]: www.linkedin.com/in/p-karthika-devi-7aa521361
+
 
 
 
